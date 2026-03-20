@@ -50,9 +50,9 @@ Perfil B (alto interesse): exercícios avançados, simulações virtuais, compar
 
 5) Internacionalização de um trecho
 
-Trecho original: “O nucléolo é uma estrutura nuclear não delimitada por membrana, formada ao redor de regiões genômicas específicas que contêm genes de rRNA”
+Trecho original: “O nucléolo é uma estrutura nuclear não delimitada por membrana, formada ao redor de regiões genômicas específicas que contêm genes de rRNA.”
 
-Trecho traduzido: “The nucleolus is a non-membrane-bound nuclear structure, formed around specific genomic regions containing rRNA genes”
+Trecho traduzido: “The nucleolus is a nuclear structure not bounded by a membrane, formed around specific genomic regions that contain rRNA genes.”
 
 Indicação: pode ser usado para estudantes bilíngues ou materiais didáticos internacionais
 
